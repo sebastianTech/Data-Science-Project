@@ -1,5 +1,8 @@
 # Wine-Data-set-Red-
 CRISP - DM process using Wine quality data set
+
+
+
 # Data-Science-Project
 Wine Quality (Red) Data Mining Dymistify
 he Objectives of CRISP-DM is to understand from a business perspective, what the client really intend to accomplish which is the business goals,availability of resources,the underlying constraints and translate these goals and restrictions into a data mining problem definition. CRISP-DM provides a preliminary plan to achieve the data mining goals and the business goals. The output will have the following:
